@@ -11,7 +11,7 @@
 
 / {
     keymap {
-        compatible = "zmk,keymap,wired-split";
+        compatible = "zmk,keymap";
 
         default_layer {
             bindings = <
